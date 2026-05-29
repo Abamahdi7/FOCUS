@@ -1,4 +1,4 @@
-# Focus C++ Foundation
+# Focus 
 
 Focus is a C++17 console-based foundation for a productivity application designed around personal focus, daily organization, weekly planning, alarms, Pomodoro sessions, and a study-community entry point.
 
